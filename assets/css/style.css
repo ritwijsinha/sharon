@@ -190,8 +190,9 @@ p {
   padding: 15px 0;
   background-color: #fff;
   top: -100%;
-  box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
-  background-color: #0A405B;
+  /* box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08); */
+  box-shadow: 0px 2px 20px 8px rgba(0, 0, 0, 0.3);
+  background-color: #01041a;
 }
 
 #header.header-scrolled,
