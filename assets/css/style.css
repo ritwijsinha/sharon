@@ -1559,6 +1559,12 @@ blockquote {
   border-radius: 12px;
 }
 
+.exp-logo-big {
+  height: 44px;
+  width: 64px;
+  border-radius: 12px;
+}
+
 .smol {
   font-size: 11px !important;
   font-style: italic !important;
